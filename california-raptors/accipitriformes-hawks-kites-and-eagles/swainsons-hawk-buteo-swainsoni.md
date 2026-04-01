@@ -42,7 +42,7 @@ The bill is slaty to blackish, with a pale olive buff corner of the mouth. The c
 
 Buteo swainsoni is **monotypic**. No subspecies are currently recognized. The absence of geographic variation is consistent with genetic data showing no population structure across the breeding range.
 
-{% embed url="https://www.youtube.com/watch?v=onrnVSix5jI" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onrnVSix5jI" frameborder="0" allowfullscreen></iframe>
 
 ## Distribution and Migration
 

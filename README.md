@@ -34,9 +34,9 @@ I also thank my colleagues, residents, and students at the UC Davis School of Ve
 <div align="left"><figure><img src=".gitbook/assets/Beaufrere Signature (1).JPG" alt="" width="217"><figcaption></figcaption></figure></div>
 
 _**Hugues Beaufrère, DVM, PhD, DACZM, DABVP (Avian), DECZM (Avian)**_\
-&#xNAN;_&#x43;o-Director, California Raptor Center_\
+_Co-Director, California Raptor Center_\
 _Associate professor, Companion Zoological Medicine_\
 _Dpt of Medicine and Epidemiology_\
 _UC Davis School of Veterinary Medicine_\
-&#xNAN;_<mark style="color:blue;">hbeaufrere@ucdavis.edu</mark>_&#x20;
+_<mark style="color:blue;">hbeaufrere@ucdavis.edu</mark>_&#x20;
 
