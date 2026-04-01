@@ -1,0 +1,3 @@
+# Avian influenza
+
+Raptors exposed to wild bird populations in areas where influenza viruses circulate may become infected, though infection is often subclinical. Larger raptor species (e.g., peregrine falcons, bald eagles) are generally at greater risk of exposure than smaller species (e.g., kestrels) that hunt small prey. Surveys suggest that infection rates in raptors are relatively low. Vaccination with killed influenza vaccine has been evaluated in multiple diurnal and nocturnal raptor species, with variable results that are highly species dependent. The vaccine was moderately effective in Falconiformes and Accipitriformes and poorly effective in Strigiformes at inducing protective antibody titers.

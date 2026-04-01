@@ -1,0 +1,7 @@
+# Human Health Hazards
+
+The primary human health risk associated with raptors is physical injury from the talons. All handlers should be vaccinated against tetanus and should follow the handling protocols described in the restraint section to minimize injury risk. Although rare, great horned owls that have consumed rabid prey have been reported to shed rabies virus in their oral secretions for prolonged periods. While no human infection via this route has been documented, experimental studies have shown transmission to mice. Therefore, rabies vaccination is recommended for all personnel who treat and handle wild raptors, particularly those who care for great horned owls in regions where skunk rabies is endemic.
+
+
+
+Several raptor infectious diseases have zoonotic potential, including avian chlamydiosis, mycobacteriosis, and West Nile virus. Mycobacteriosis in raptors is primarily caused by the M. avium complex, which carries a lower zoonotic risk than the M. tuberculosis complex. West Nile virus transmission to humans requires a mosquito vector under normal circumstances, unless infected secretions come into direct contact with a handler's mucous membranes or broken skin (a risk primarily during necropsy procedures). Standard biosecurity practices—including glove use and avoiding food consumption in areas where sick raptors are handled—are recommended when caring for ill birds of prey.
