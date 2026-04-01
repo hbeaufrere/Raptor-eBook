@@ -31,6 +31,8 @@ jobs:
 
       - name: Build book
         run: npx honkit build
+        env:
+          NODE_OPTIONS: '--max-old-space-size=4096'
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

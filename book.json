@@ -3,6 +3,5 @@
   "description": "A practical learning resource for the medical care and rehabilitation of wild birds of prey in California",
   "author": "Hugues Beaufrère, DVM, PhD, DACZM, DABVP (Avian), DECZM (Avian)",
   "language": "en",
-  "plugins": ["-sharing", "-search-pro", "search"],
-  "pluginsConfig": {}
+  "plugins": ["-sharing"]
 }
