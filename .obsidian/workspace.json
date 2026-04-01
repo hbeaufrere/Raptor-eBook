@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d4f1d6f4ad88b9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6541fb758119398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0636c8c7371ded0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bald-eagle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e55d92f1e01bab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9074c7db8bee58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6bdf34cb50cb7a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "124ae28b8e63ae96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e76fc647e005ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2edb6f9cd246a71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6969d53e045d5443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a0cd021593961a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bald-eagle"
+            }
+          },
+          {
+            "id": "03fb812a7683b3e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bald-eagle"
+            }
+          },
+          {
+            "id": "5e9ab694335c969b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2db85b950728bac5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7f356c29e824e6ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of bald-eagle"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0636c8c7371ded0c",
+  "lastOpenFiles": [
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/red-shouldered-hawk.md",
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
+    "california-raptors/cathartiformes-new-world-vultures/california-condor.md"
+  ]
+}
