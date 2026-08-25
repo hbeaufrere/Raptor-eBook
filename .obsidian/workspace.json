@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/northern-harrier.md",
+                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "northern-harrier"
+              "title": "README"
             }
           }
         ]
@@ -187,12 +187,23 @@
   },
   "active": "0636c8c7371ded0c",
   "lastOpenFiles": [
-    "diagnostic-procedures/page-3.md",
+    "bacterial-diseases/page-6.md",
+    "anatomy-and-physiology-raptor-specific/markdown.md",
+    "anatomy-and-physiology-raptor-specific/interactive-blocks.md",
+    "anatomy-and-physiology-raptor-specific/integrations.md",
+    "anatomy-and-physiology-raptor-specific/images-and-media.md",
+    "anatomy-and-physiology-raptor-specific/editor.md",
+    "anatomy-and-physiology-raptor-specific/falconry/README.md",
+    "anatomy-and-physiology-raptor-specific/developmental-stages.md",
+    "anatomy-and-physiology-raptor-specific/falconry/page-9.md",
+    "bandages-and-basic-procedures/wing-bandages.md",
     "bandages-and-basic-procedures/foot-and-leg-bandages.md",
     "bandages-and-basic-procedures/body-bandages.md",
-    "anatomy-and-physiology-raptor-specific/developmental-stages.md",
-    "california-raptors/accipitriformes-hawks-kites-and-eagles/red-shouldered-hawk.md",
     "california-raptors/accipitriformes-hawks-kites-and-eagles/publish-your-docs.md",
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/others-rare-at-crc.md",
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/northern-harrier.md",
+    "diagnostic-procedures/page-3.md",
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/red-shouldered-hawk.md",
     "california-raptors/cathartiformes-new-world-vultures/README.md",
     "california-raptors/accipitriformes-hawks-kites-and-eagles/bald-eagle.md",
     "california-raptors/cathartiformes-new-world-vultures/california-condor.md"
