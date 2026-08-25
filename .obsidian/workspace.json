@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "california-raptors/accipitriformes-hawks-kites-and-eagles/README.md",
+                "file": "california-raptors/quickstart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "quickstart"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "0636c8c7371ded0c",
   "lastOpenFiles": [
+    "california-raptors/accipitriformes-hawks-kites-and-eagles/README.md",
     "bacterial-diseases/page-6.md",
     "anatomy-and-physiology-raptor-specific/markdown.md",
     "anatomy-and-physiology-raptor-specific/interactive-blocks.md",
